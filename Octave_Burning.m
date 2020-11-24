@@ -1,10 +1,9 @@
 % Cellular automata: 3D (2D compatable) burning algrithm in percolation analysis
 % Programmer: Mingzhi Wang
-% Date: 12/12/2014
+% Date: 11/24/2020
 % Modified Version: v1.0
-% University of Cambridge
-% Department of Engineering
-% The burning algrithm in percolation analysis
+% Environment: Octave-5.2.0
+% Description: The burning algrithm in percolation analysis
 
 clear 
 load Example_matrix_I %One of the two examples(_I, _II)
